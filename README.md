@@ -1,6 +1,6 @@
 # Cliplets Cropper
 
-![image logo](img\logo.jpg "Cliplets Cropper")
+![image logo](img/logo.jpg "Cliplets Cropper")
 
 The tool allows you to cut cliplets containing a single character from the annotations JSON file and from the original images of the documents.
 
@@ -29,7 +29,7 @@ python src/gui.py
 
 Alternatively, you can download the Windows executable file from the `build` folder:
 
-- [ClipletsCropper.exe](build\ClipletsCropper.exe)
+- [ClipletsCropper.exe](build/ClipletsCropper.exe)
 
 
 #
@@ -42,4 +42,4 @@ Additionaly you can:
 - Select the "Grayscale" option. Wen this option is activated, all cliplet are converted in grayscale images.
 - Select the "Resize" option. Selecting this option all the cliplet images are resized to the given new dimension. If only one between height and width are provided, the tool resizes the cliplets keeping the original ratio.
 
-![Tool interface](img\screen.png "Cliplets Cropper")
+![Tool interface](img/screen.png "Cliplets Cropper")
