@@ -1,0 +1,6 @@
+JSON_ENCODING = "utf-8"
+
+UNKNOW_TM_LEN = 3
+TM_LEN = 8
+
+EXTENSION = "png"
